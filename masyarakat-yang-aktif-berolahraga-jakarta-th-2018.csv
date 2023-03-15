@@ -1,0 +1,2293 @@
+nama_fasilitas ,penanggung_jawab,bulan,jumlah
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,01,7300
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,01,0
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,01,1215
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,01,0
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,01,5520
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,01,1350
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,01,1215
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,01,3360
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,01,2061
+Stadion Sepak Bola Banteng,Jakarta Pusat,01,0
+Gedung Olahraga Tenis Meja,Jakarta Pusat,01,750
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,01,1508
+Gedung Olahraga Kemakmuran,Jakarta Pusat,01,1222
+Stadion Sepak Bola V I J,Jakarta Pusat,01,1300
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,01,5077
+Gedung Auditorium Jakarta Barat,Jakarta Barat,01,3133
+Gedung Olahraga Jakarta Barat,Jakarta Barat,01,1510
+GR Kecamatan Kalideres,Jakarta Barat,01,1361
+GR Kecamatan Kembangan,Jakarta Barat,01,1596
+GR Kecamatan Kebon Jeruk,Jakarta Barat,01,1177
+GR Kecamatan Tambora,Jakarta Barat,01,890
+GR Kecamatan Grogol Petamburan,Jakarta Barat,01,9431
+GR Kecamatan Palmerah,Jakarta Barat,01,991
+Gedung Olahraga,Jakarta Selatan,01,4592
+Gedung Pertunjukan,Jakarta Selatan,01,0
+Kolam Renang,Jakarta Selatan,01,2952
+Gedung Bridge,Jakarta Selatan,01,1825
+Stadion Bola PSPI Tebet,Jakarta Selatan,01,7090
+Lapangan Tenis,Jakarta Selatan,01,1715
+GR Kecamatan Tebet,Jakarta Selatan,01,1970
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,01,980
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,01,1936
+GR Kecamatan Pesanggrahan,Jakarta Selatan,01,2248
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,01,1214
+GR Kecamatan Jagakarsa,Jakarta Selatan,01,355
+GR Kecamatan Pasar Minggu,Jakarta Selatan,01,2793
+Wisma Atlet,Jakarta Selatan,01,66
+Gedung Olahraga,Jakarta Utara,01,11706
+GR Kecamatan Tanjung Priok,Jakarta Utara,01,744
+GR Kecamatan Cilincing,Jakarta Utara,01,48399
+GR Kecamatan Kelapa Gading,Jakarta Utara,01,3799
+Kolam Renang,Jakarta Utara,01,9261
+Gedung Auditorium,Jakarta Utara,01,9131
+GR Kecamatan Koja,Jakarta Utara,01,4561
+Area Halaman GRJU,Jakarta Utara,01,4171
+Gedung Auditorium,Jakarta Timur,01,6470
+Gedung Olahraga,Jakarta Timur,01,540
+Kolam Renang,Jakarta Timur,01,3527
+GR Kecamatan Jatinegara,Jakarta Timur,01,5689
+GR Kecamatan Pulogadung,Jakarta Timur,01,4489
+GR Kecamatan Pasar Rebo,Jakarta Timur,01,3212
+GR Kecamatan Cipayung,Jakarta Timur,01,2425
+GR Kecamatan Kramat Jati,Jakarta Timur,01,3202
+GR Kecamatan Makasar,Jakarta Timur,01,4095
+GR Kecamatan Duren Sawit,Jakarta Timur,01,1417
+GR Kecamatan Cakung,Jakarta Timur,01,2787
+GR Kecamatan Matraman,Jakarta Timur,01,0
+GR Kecamatan Ciracas,Jakarta Timur,01,5700
+Sekretariat,Jakarta Timur,01,560
+GOR PKP,Jakarta Timur,01,3400
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,01,1558
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,01,1985
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,01,1876
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,01,3217
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,01,1173
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,01,1157
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,01,1073
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,01,1418
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,01,3307
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,01,1965
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,01,115
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,01,121
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,01,248
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,01,8324
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,01,5571
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,01,3214
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,01,1755
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,01,20
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,01,2102
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,01,320
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,01,545
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,01,882
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,01,710
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,0
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,1849
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,2752
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,1663
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,14313
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,20106
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,10666
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,2160
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,01,0
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,01,4160
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,01,4731
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,01,1743
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,01,2450
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,01,1902
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,01,0
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,01,2141
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,01,1856
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,01,3035
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,01,1164
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,01,10500
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,01,1240
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,01,5650
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,01,705
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,01,7306
+GOR Bulutangkis,Suku Dinas Jakarta Utara,01,3399
+Gedung Serbaguna,Suku Dinas Jakarta Utara,01,5298
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,01,860
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,01,1147
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,01,3988
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,01,916
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,01,416
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,01,883
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,01,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,01,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,01,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,01,400
+GOR Kamal Muara,Suku Dinas Jakarta Utara,01,800
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,01,1550
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,01,65137
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,01,1614
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,01,5025
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,01,6524
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,01,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,01,3058
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,01,3940
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,01,4230
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,01,2907
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,01,4245
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,01,3649
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,01,3756
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,01,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,01,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,01,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,01,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,01,11052
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,01,252
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,01,395
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,01,1912
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,01,300
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,01,500
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,01,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,01,191
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,01,3863
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,01,3116
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,01,230
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,01,290
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,01,56
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,01,150
+Stadion BMX,Suku Dinas Jakarta Timur,01,0
+GOR Ciracas,Suku Dinas Jakarta Timur,01,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,01,1650
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,01,1500
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,01,1100
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,01,215
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,01,76683
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,01,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,01,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,01,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,01,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,01,0
+Sudin Jakarta Pusat,RPTRA ,01,0
+Sudin Jakarta Utara,RPTRA ,01,0
+Sudin Jakarta Barat,RPTRA ,01,0
+Sudin Jakarta Selatan,RPTRA ,01,0
+Sudin Jakarta Timur,RPTRA ,01,0
+Sudin Jakarta Pusat,RUSUN ,01,0
+Sudin Jakarta Utara,RUSUN ,01,0
+Sudin Jakarta Barat,RUSUN ,01,0
+Sudin Jakarta Selatan,RUSUN ,01,0
+Sudin Jakarta Timur,RUSUN ,01,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,01,85
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,01,85
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,01,85
+Formi Jakarta Timur,DISPORA PROVINSI ,01,1200
+Formi Jakarta Selatan,DISPORA PROVINSI ,01,1200
+Formi Jakarta Utara,DISPORA PROVINSI ,01,800
+Formi Jakarta Barat,DISPORA PROVINSI ,01,1050
+Formi Jakarta Pusat,DISPORA PROVINSI ,01,1000
+NPC - Rawamangun,DISPORA PROVINSI ,01,375
+NPC - Ragunan,DISPORA PROVINSI ,01,275
+NPC - Paraswim,DISPORA PROVINSI ,01,215
+HBKB Jln Sudirman,DISPORA PROVINSI ,01,47620
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,01,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,01,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,01,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,01,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,01,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,01,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,02,7350
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,02,0
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,02,866
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,02,2150
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,02,4583
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,02,1480
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,02,1425
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,02,2494
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,02,2536
+Stadion Sepak Bola Banteng,Jakarta Pusat,02,0
+Gedung Olahraga Tenis Meja,Jakarta Pusat,02,705
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,02,1240
+Gedung Olahraga Kemakmuran,Jakarta Pusat,02,1347
+Stadion Sepak Bola V I J,Jakarta Pusat,02,1380
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,02,4833
+Gedung Auditorium Jakarta Barat,Jakarta Barat,02,3141
+Gedung Olahraga Jakarta Barat,Jakarta Barat,02,5357
+GR Kecamatan Kalideres,Jakarta Barat,02,1994
+GR Kecamatan Kembangan,Jakarta Barat,02,1762
+GR Kecamatan Kebon Jeruk,Jakarta Barat,02,2042
+GR Kecamatan Tambora,Jakarta Barat,02,1559
+GR Kecamatan Grogol Petamburan,Jakarta Barat,02,13156
+GR Kecamatan Palmerah,Jakarta Barat,02,1625
+Gedung Olahraga,Jakarta Selatan,02,4692
+Gedung Pertunjukan,Jakarta Selatan,02,0
+Kolam Renang,Jakarta Selatan,02,2419
+Gedung Bridge,Jakarta Selatan,02,367
+Stadion Bola PSPI Tebet,Jakarta Selatan,02,1245
+Lapangan Tenis,Jakarta Selatan,02,2840
+GR Kecamatan Tebet,Jakarta Selatan,02,1987
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,02,1759
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,02,2303
+GR Kecamatan Pesanggrahan,Jakarta Selatan,02,2015
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,02,1863
+GR Kecamatan Jagakarsa,Jakarta Selatan,02,1006
+GR Kecamatan Pasar Minggu,Jakarta Selatan,02,6461
+Wisma Atlet,Jakarta Selatan,02,68
+Gedung Olahraga,Jakarta Utara,02,1419
+GR Kecamatan Tanjung Priok,Jakarta Utara,02,13853
+GR Kecamatan Cilincing,Jakarta Utara,02,7529
+GR Kecamatan Kelapa Gading,Jakarta Utara,02,6051
+Kolam Renang,Jakarta Utara,02,2383
+Gedung Auditorium,Jakarta Utara,02,145664
+GR Kecamatan Koja,Jakarta Utara,02,26424
+Area Halaman GRJU,Jakarta Utara,02,32258
+Gedung Auditorium,Jakarta Timur,02,6000
+Gedung Olahraga,Jakarta Timur,02,430
+Kolam Renang,Jakarta Timur,02,1872
+GR Kecamatan Jatinegara,Jakarta Timur,02,7179
+GR Kecamatan Pulogadung,Jakarta Timur,02,4080
+GR Kecamatan Pasar Rebo,Jakarta Timur,02,1800
+GR Kecamatan Cipayung,Jakarta Timur,02,1575
+GR Kecamatan Kramat Jati,Jakarta Timur,02,3612
+GR Kecamatan Makasar,Jakarta Timur,02,6045
+GR Kecamatan Duren Sawit,Jakarta Timur,02,1333
+GR Kecamatan Cakung,Jakarta Timur,02,3030
+GR Kecamatan Matraman,Jakarta Timur,02,0
+GR Kecamatan Ciracas,Jakarta Timur,02,9740
+Sekretariat,Jakarta Timur,02,713
+GOR PKP,Jakarta Timur,02,1465
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,02,1314
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,02,2050
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,02,1784
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,02,3321
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,02,1279
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,02,1276
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,02,1138
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,02,1864
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,02,3319
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,02,2087
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,02,51
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,02,49
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,02,76
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,02,8424
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,02,3073
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,02,3629
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,02,1674
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,02,170
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,02,1717
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,02,386
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,02,740
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,02,500
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,02,5377
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,0
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,1282
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,2867
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,2245
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,12258
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,31308
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,11470
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,2160
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,02,0
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,02,3680
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,02,4835
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,02,1188
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,02,2915
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,02,1376
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,02,1360
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,02,2141
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,02,1856
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,02,2899
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,02,1259
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,02,10500
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,02,1240
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,02,5650
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,02,705
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,02,7306
+GOR Bulutangkis,Suku Dinas Jakarta Utara,02,3399
+Gedung Serbaguna,Suku Dinas Jakarta Utara,02,5298
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,02,860
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,02,1147
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,02,3988
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,02,916
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,02,416
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,02,883
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,02,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,02,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,02,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,02,720
+GOR Kamal Muara,Suku Dinas Jakarta Utara,02,850
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,02,800
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,02,65137
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,02,1137
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,02,5850
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,02,6634
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,02,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,02,2734
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,02,1035
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,02,4199
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,02,2264
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,02,4456
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,02,3125
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,02,3116
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,02,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,02,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,02,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,02,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,02,7845
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,02,290
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,02,390
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,02,2785
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,02,320
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,02,900
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,02,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,02,244
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,02,3920
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,02,3220
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,02,205
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,02,290
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,02,66
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,02,150
+Stadion BMX,Suku Dinas Jakarta Timur,02,0
+GOR Ciracas,Suku Dinas Jakarta Timur,02,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,02,1450
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,02,1650
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,02,950
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,02,245
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,02,80577
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,02,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,02,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,02,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,02,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,02,0
+Sudin Jakarta Pusat,RPTRA ,02,0
+Sudin Jakarta Utara,RPTRA ,02,0
+Sudin Jakarta Barat,RPTRA ,02,0
+Sudin Jakarta Selatan,RPTRA ,02,0
+Sudin Jakarta Timur,RPTRA ,02,0
+Sudin Jakarta Pusat,RUSUN ,02,0
+Sudin Jakarta Utara,RUSUN ,02,0
+Sudin Jakarta Barat,RUSUN ,02,0
+Sudin Jakarta Selatan,RUSUN ,02,0
+Sudin Jakarta Timur,RUSUN ,02,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,02,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,02,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,02,0
+Formi Jakarta Timur,DISPORA PROVINSI ,02,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,02,0
+Formi Jakarta Utara,DISPORA PROVINSI ,02,0
+Formi Jakarta Barat,DISPORA PROVINSI ,02,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,02,0
+NPC - Rawamangun,DISPORA PROVINSI ,02,0
+NPC - Ragunan,DISPORA PROVINSI ,02,0
+NPC - Paraswim,DISPORA PROVINSI ,02,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,02,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,02,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,02,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,02,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,02,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,02,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,02,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,03,6375
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,03,50
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,03,906
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,03,1555
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,03,5483
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,03,1561
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,03,1445
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,03,3154
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,03,1826
+Stadion Sepak Bola Banteng,Jakarta Pusat,03,50
+Gedung Olahraga Tenis Meja,Jakarta Pusat,03,765
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,03,1360
+Gedung Olahraga Kemakmuran,Jakarta Pusat,03,1487
+Stadion Sepak Bola V I J,Jakarta Pusat,03,1720
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,03,5201
+Gedung Auditorium Jakarta Barat,Jakarta Barat,03,3727
+Gedung Olahraga Jakarta Barat,Jakarta Barat,03,5628
+GR Kecamatan Kalideres,Jakarta Barat,03,2524
+GR Kecamatan Kembangan,Jakarta Barat,03,2390
+GR Kecamatan Kebon Jeruk,Jakarta Barat,03,2342
+GR Kecamatan Tambora,Jakarta Barat,03,2454
+GR Kecamatan Grogol Petamburan,Jakarta Barat,03,17915
+GR Kecamatan Palmerah,Jakarta Barat,03,2240
+Gedung Olahraga,Jakarta Selatan,03,4753
+Gedung Pertunjukan,Jakarta Selatan,03,0
+Kolam Renang,Jakarta Selatan,03,2448
+Gedung Bridge,Jakarta Selatan,03,1887
+Stadion Bola PSPI Tebet,Jakarta Selatan,03,6547
+Lapangan Tenis,Jakarta Selatan,03,1784
+GR Kecamatan Tebet,Jakarta Selatan,03,2096
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,03,1019
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,03,2015
+GR Kecamatan Pesanggrahan,Jakarta Selatan,03,2335
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,03,1263
+GR Kecamatan Jagakarsa,Jakarta Selatan,03,373
+GR Kecamatan Pasar Minggu,Jakarta Selatan,03,2873
+Wisma Atlet,Jakarta Selatan,03,72
+Gedung Olahraga,Jakarta Utara,03,189193
+GR Kecamatan Tanjung Priok,Jakarta Utara,03,892
+GR Kecamatan Cilincing,Jakarta Utara,03,148548
+GR Kecamatan Kelapa Gading,Jakarta Utara,03,2519
+Kolam Renang,Jakarta Utara,03,15404
+Gedung Auditorium,Jakarta Utara,03,7627
+GR Kecamatan Koja,Jakarta Utara,03,6587
+Area Halaman GRJU,Jakarta Utara,03,39721
+Gedung Auditorium,Jakarta Timur,03,7600
+Gedung Olahraga,Jakarta Timur,03,475
+Kolam Renang,Jakarta Timur,03,2771
+GR Kecamatan Jatinegara,Jakarta Timur,03,8858
+GR Kecamatan Pulogadung,Jakarta Timur,03,8580
+GR Kecamatan Pasar Rebo,Jakarta Timur,03,2437
+GR Kecamatan Cipayung,Jakarta Timur,03,1344
+GR Kecamatan Kramat Jati,Jakarta Timur,03,3908
+GR Kecamatan Makasar,Jakarta Timur,03,9075
+GR Kecamatan Duren Sawit,Jakarta Timur,03,1211
+GR Kecamatan Cakung,Jakarta Timur,03,3160
+GR Kecamatan Matraman,Jakarta Timur,03,0
+GR Kecamatan Ciracas,Jakarta Timur,03,4295
+Sekretariat,Jakarta Timur,03,833
+GOR PKP,Jakarta Timur,03,1305
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,03,1295
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,03,2548
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,03,1717
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,03,910
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,03,1334
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,03,953
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,03,822
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,03,1355
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,03,3480
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,03,1450
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,03,1278
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,03,31
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,03,330
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,03,8212
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,03,7003
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,03,2607
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,03,1825
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,03,200
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,03,3476
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,03,423
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,03,728
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,03,1130
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,03,16545
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,0
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,1282
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,2867
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,2245
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,12258
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,31308
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,11470
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,2160
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,03,0
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,03,5775
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,03,4765
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,03,2743
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,03,2911
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,03,2480
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,03,3941
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,03,2141
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,03,1856
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,03,1060
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,03,1259
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,03,10500
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,03,1240
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,03,5650
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,03,705
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,03,7306
+GOR Bulutangkis,Suku Dinas Jakarta Utara,03,3399
+Gedung Serbaguna,Suku Dinas Jakarta Utara,03,5298
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,03,860
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,03,1147
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,03,3988
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,03,916
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,03,416
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,03,883
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,03,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,03,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,03,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,03,720
+GOR Kamal Muara,Suku Dinas Jakarta Utara,03,850
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,03,800
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,03,65137
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,03,1140
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,03,6000
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,03,6756
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,03,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,03,2734
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,03,1055
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,03,4670
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,03,3901
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,03,3269
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,03,3700
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,03,3445
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,03,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,03,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,03,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,03,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,03,9463
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,03,346
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,03,355
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,03,1906
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,03,130
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,03,750
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,03,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,03,194
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,03,4476
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,03,3743
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,03,225
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,03,280
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,03,66
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,03,140
+Stadion BMX,Suku Dinas Jakarta Timur,03,0
+GOR Ciracas,Suku Dinas Jakarta Timur,03,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,03,1875
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,03,1660
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,03,1225
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,03,230
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,03,81467
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,03,400
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,03,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,03,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,03,5200
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,03,500
+Sudin Jakarta Pusat,RPTRA ,03,37737
+Sudin Jakarta Utara,RPTRA ,03,0
+Sudin Jakarta Barat,RPTRA ,03,0
+Sudin Jakarta Selatan,RPTRA ,03,75981
+Sudin Jakarta Timur,RPTRA ,03,0
+Sudin Jakarta Pusat,RUSUN ,03,0
+Sudin Jakarta Utara,RUSUN ,03,0
+Sudin Jakarta Barat,RUSUN ,03,0
+Sudin Jakarta Selatan,RUSUN ,03,0
+Sudin Jakarta Timur,RUSUN ,03,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,03,340
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,03,340
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,03,340
+Formi Jakarta Timur,DISPORA PROVINSI ,03,8160
+Formi Jakarta Selatan,DISPORA PROVINSI ,03,22680
+Formi Jakarta Utara,DISPORA PROVINSI ,03,27228
+Formi Jakarta Barat,DISPORA PROVINSI ,03,21660
+Formi Jakarta Pusat,DISPORA PROVINSI ,03,12030
+NPC - Rawamangun,DISPORA PROVINSI ,03,0
+NPC - Ragunan,DISPORA PROVINSI ,03,0
+NPC - Paraswim,DISPORA PROVINSI ,03,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,03,400
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,03,3790
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,03,3050
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,03,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,03,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,03,3000
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,03,1520
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,04,6750
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,04,50
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,04,957
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,04,3930
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,04,5220
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,04,1568
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,04,1305
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,04,4374
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,04,2326
+Stadion Sepak Bola Banteng,Jakarta Pusat,04,105
+Gedung Olahraga Tenis Meja,Jakarta Pusat,04,850
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,04,1427
+Gedung Olahraga Kemakmuran,Jakarta Pusat,04,1499
+Stadion Sepak Bola V I J,Jakarta Pusat,04,1700
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,04,6070
+Gedung Auditorium Jakarta Barat,Jakarta Barat,04,4383
+Gedung Olahraga Jakarta Barat,Jakarta Barat,04,4570
+GR Kecamatan Kalideres,Jakarta Barat,04,2449
+GR Kecamatan Kembangan,Jakarta Barat,04,2617
+GR Kecamatan Kebon Jeruk,Jakarta Barat,04,2590
+GR Kecamatan Tambora,Jakarta Barat,04,2485
+GR Kecamatan Grogol Petamburan,Jakarta Barat,04,17306
+GR Kecamatan Palmerah,Jakarta Barat,04,2458
+Gedung Olahraga,Jakarta Selatan,04,5229
+Gedung Pertunjukan,Jakarta Selatan,04,0
+Kolam Renang,Jakarta Selatan,04,3651
+Gedung Bridge,Jakarta Selatan,04,2007
+Stadion Bola PSPI Tebet,Jakarta Selatan,04,7335
+Lapangan Tenis,Jakarta Selatan,04,1963
+GR Kecamatan Tebet,Jakarta Selatan,04,2306
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,04,1121
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,04,2217
+GR Kecamatan Pesanggrahan,Jakarta Selatan,04,2569
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,04,1390
+GR Kecamatan Jagakarsa,Jakarta Selatan,04,410
+GR Kecamatan Pasar Minggu,Jakarta Selatan,04,3161
+Wisma Atlet,Jakarta Selatan,04,76
+Gedung Olahraga,Jakarta Utara,04,263610
+GR Kecamatan Tanjung Priok,Jakarta Utara,04,278
+GR Kecamatan Cilincing,Jakarta Utara,04,145864
+GR Kecamatan Kelapa Gading,Jakarta Utara,04,2712
+Kolam Renang,Jakarta Utara,04,15570
+Gedung Auditorium,Jakarta Utara,04,8627
+GR Kecamatan Koja,Jakarta Utara,04,7975
+Area Halaman GRJU,Jakarta Utara,04,36049
+Gedung Auditorium,Jakarta Timur,04,6320
+Gedung Olahraga,Jakarta Timur,04,225
+Kolam Renang,Jakarta Timur,04,3600
+GR Kecamatan Jatinegara,Jakarta Timur,04,8097
+GR Kecamatan Pulogadung,Jakarta Timur,04,9555
+GR Kecamatan Pasar Rebo,Jakarta Timur,04,2208
+GR Kecamatan Cipayung,Jakarta Timur,04,1581
+GR Kecamatan Kramat Jati,Jakarta Timur,04,4094
+GR Kecamatan Makasar,Jakarta Timur,04,3423
+GR Kecamatan Duren Sawit,Jakarta Timur,04,1184
+GR Kecamatan Cakung,Jakarta Timur,04,2258
+GR Kecamatan Matraman,Jakarta Timur,04,0
+GR Kecamatan Ciracas,Jakarta Timur,04,4710
+Sekretariat,Jakarta Timur,04,889
+GOR PKP,Jakarta Timur,04,3135
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,04,4628
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,04,7178
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,04,6067
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,04,3306
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,04,1417
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,04,431
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,04,386
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,04,1350
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,04,2793
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,04,7400
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,04,870
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,04,662
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,04,730
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,04,13396
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,04,7101
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,04,2677
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,04,2369
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,04,150
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,04,3382
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,04,357
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,04,743
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,04,4060
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,04,1210
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,3550
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,3965
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,4073
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,2103
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,12140
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,28116
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,11980
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,2410
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,04,3345
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,04,19951
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,04,20230
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,04,2984
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,04,2885
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,04,1597
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,04,8250
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,04,2300
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,04,1856
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,04,1335
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,04,1780
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,04,3375
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,04,1388
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,04,1111
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,04,7207
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,04,2863
+GOR Bulutangkis,Suku Dinas Jakarta Utara,04,6019
+Gedung Serbaguna,Suku Dinas Jakarta Utara,04,422
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,04,1066
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,04,6484
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,04,3568
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,04,668
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,04,796
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,04,1558
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,04,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,04,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,04,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,04,1550
+GOR Kamal Muara,Suku Dinas Jakarta Utara,04,1550
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,04,1200
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,04,65137
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,04,1715
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,04,4295
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,04,6575
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,04,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,04,2857
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,04,5408
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,04,4766
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,04,4137
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,04,3545
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,04,3436
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,04,5170
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,04,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,04,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,04,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,04,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,04,7800
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,04,391
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,04,360
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,04,0
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,04,0
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,04,1200
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,04,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,04,1020
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,04,4694
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,04,3935
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,04,230
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,04,350
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,04,200
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,04,100
+Stadion BMX,Suku Dinas Jakarta Timur,04,0
+GOR Ciracas,Suku Dinas Jakarta Timur,04,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,04,1850
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,04,1800
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,04,1150
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,04,240
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,04,0
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,04,1000
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,04,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,04,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,04,4350
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,04,0
+Sudin Jakarta Pusat,RPTRA ,04,39467
+Sudin Jakarta Utara,RPTRA ,04,0
+Sudin Jakarta Barat,RPTRA ,04,6073
+Sudin Jakarta Selatan,RPTRA ,04,64703
+Sudin Jakarta Timur,RPTRA ,04,0
+Sudin Jakarta Pusat,RUSUN ,04,0
+Sudin Jakarta Utara,RUSUN ,04,0
+Sudin Jakarta Barat,RUSUN ,04,0
+Sudin Jakarta Selatan,RUSUN ,04,0
+Sudin Jakarta Timur,RUSUN ,04,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,04,340
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,04,340
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,04,340
+Formi Jakarta Timur,DISPORA PROVINSI ,04,21660
+Formi Jakarta Selatan,DISPORA PROVINSI ,04,22680
+Formi Jakarta Utara,DISPORA PROVINSI ,04,25548
+Formi Jakarta Barat,DISPORA PROVINSI ,04,26560
+Formi Jakarta Pusat,DISPORA PROVINSI ,04,12030
+NPC - Rawamangun,DISPORA PROVINSI ,04,0
+NPC - Ragunan,DISPORA PROVINSI ,04,0
+NPC - Paraswim,DISPORA PROVINSI ,04,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,04,900
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,04,1060
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,04,1790
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,04,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,04,17239
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,04,2500
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,04,2868
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,05,4500
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,05,10
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,05,475
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,05,920
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,05,2610
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,05,838
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,05,705
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,05,1378
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,05,2146
+Stadion Sepak Bola Banteng,Jakarta Pusat,05,20
+Gedung Olahraga Tenis Meja,Jakarta Pusat,05,425
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,05,624
+Gedung Olahraga Kemakmuran,Jakarta Pusat,05,821
+Stadion Sepak Bola V I J,Jakarta Pusat,05,850
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,05,3494
+Gedung Auditorium Jakarta Barat,Jakarta Barat,05,4678
+Gedung Olahraga Jakarta Barat,Jakarta Barat,05,4760
+GR Kecamatan Kalideres,Jakarta Barat,05,1307
+GR Kecamatan Kembangan,Jakarta Barat,05,1765
+GR Kecamatan Kebon Jeruk,Jakarta Barat,05,1485
+GR Kecamatan Tambora,Jakarta Barat,05,1665
+GR Kecamatan Grogol Petamburan,Jakarta Barat,05,8895
+GR Kecamatan Palmerah,Jakarta Barat,05,1025
+Gedung Olahraga,Jakarta Selatan,05,3685
+Gedung Pertunjukan,Jakarta Selatan,05,0
+Kolam Renang,Jakarta Selatan,05,1842
+Gedung Bridge,Jakarta Selatan,05,1505
+Stadion Bola PSPI Tebet,Jakarta Selatan,05,5502
+Lapangan Tenis,Jakarta Selatan,05,1472
+GR Kecamatan Tebet,Jakarta Selatan,05,1730
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,05,841
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,05,1663
+GR Kecamatan Pesanggrahan,Jakarta Selatan,05,1927
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,05,1043
+GR Kecamatan Jagakarsa,Jakarta Selatan,05,308
+GR Kecamatan Pasar Minggu,Jakarta Selatan,05,2371
+Wisma Atlet,Jakarta Selatan,05,58
+Gedung Olahraga,Jakarta Utara,05,142157
+GR Kecamatan Tanjung Priok,Jakarta Utara,05,150
+GR Kecamatan Cilincing,Jakarta Utara,05,135742
+GR Kecamatan Kelapa Gading,Jakarta Utara,05,1851
+Kolam Renang,Jakarta Utara,05,9320
+Gedung Auditorium,Jakarta Utara,05,5667
+GR Kecamatan Koja,Jakarta Utara,05,6434
+Area Halaman GRJU,Jakarta Utara,05,15254
+Gedung Auditorium,Jakarta Timur,05,4930
+Gedung Olahraga,Jakarta Timur,05,290
+Kolam Renang,Jakarta Timur,05,2091
+GR Kecamatan Jatinegara,Jakarta Timur,05,4283
+GR Kecamatan Pulogadung,Jakarta Timur,05,10175
+GR Kecamatan Pasar Rebo,Jakarta Timur,05,1222
+GR Kecamatan Cipayung,Jakarta Timur,05,1179
+GR Kecamatan Kramat Jati,Jakarta Timur,05,3026
+GR Kecamatan Makasar,Jakarta Timur,05,1356
+GR Kecamatan Duren Sawit,Jakarta Timur,05,866
+GR Kecamatan Cakung,Jakarta Timur,05,544
+GR Kecamatan Matraman,Jakarta Timur,05,0
+GR Kecamatan Ciracas,Jakarta Timur,05,5160
+Sekretariat,Jakarta Timur,05,742
+GOR PKP,Jakarta Timur,05,2020
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,05,258
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,05,251
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,05,181
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,05,2042
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,05,986
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,05,542
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,05,476
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,05,1212
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,05,1089
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,05,1070
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,05,235
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,05,324
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,05,739
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,05,5128
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,05,2341
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,05,1302
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,05,2483
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,05,100
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,05,1018
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,05,285
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,05,470
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,05,1413
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,05,2646
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,2350
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,3001
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,2081
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,1276
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,6662
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,9000
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,5120
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,2160
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,05,2000
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,05,5034
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,05,3500
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,05,2481
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,05,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,05,1463
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,05,21897
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,05,1388
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,05,1856
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,05,1380
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,05,1580
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,05,3410
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,05,2122
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,05,1650
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,05,3757
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,05,1545
+GOR Bulutangkis,Suku Dinas Jakarta Utara,05,2267
+Gedung Serbaguna,Suku Dinas Jakarta Utara,05,285
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,05,897
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,05,952
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,05,2611
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,05,1038
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,05,600
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,05,458
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,05,250
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,05,60
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,05,60
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,05,525
+GOR Kamal Muara,Suku Dinas Jakarta Utara,05,710
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,05,100
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,05,65137
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,05,1200
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,05,2789
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,05,2294
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,05,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,05,1645
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,05,1470
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,05,3218
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,05,1347
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,05,3121
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,05,2751
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,05,2348
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,05,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,05,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,05,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,05,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,05,8006
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,05,258
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,05,160
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,05,0
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,05,0
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,05,650
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,05,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,05,144
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,05,3813
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,05,2739
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,05,175
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,05,500
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,05,50
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,05,250
+Stadion BMX,Suku Dinas Jakarta Timur,05,0
+GOR Ciracas,Suku Dinas Jakarta Timur,05,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,05,3160
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,05,800
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,05,750
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,05,110
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,05,0
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,05,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,05,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,05,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,05,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,05,0
+Sudin Jakarta Pusat,RPTRA ,05,39759
+Sudin Jakarta Utara,RPTRA ,05,0
+Sudin Jakarta Barat,RPTRA ,05,0
+Sudin Jakarta Selatan,RPTRA ,05,0
+Sudin Jakarta Timur,RPTRA ,05,0
+Sudin Jakarta Pusat,RUSUN ,05,0
+Sudin Jakarta Utara,RUSUN ,05,0
+Sudin Jakarta Barat,RUSUN ,05,0
+Sudin Jakarta Selatan,RUSUN ,05,0
+Sudin Jakarta Timur,RUSUN ,05,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,05,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,05,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,05,0
+Formi Jakarta Timur,DISPORA PROVINSI ,05,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,05,0
+Formi Jakarta Utara,DISPORA PROVINSI ,05,0
+Formi Jakarta Barat,DISPORA PROVINSI ,05,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,05,0
+NPC - Rawamangun,DISPORA PROVINSI ,05,0
+NPC - Ragunan,DISPORA PROVINSI ,05,0
+NPC - Paraswim,DISPORA PROVINSI ,05,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,05,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,05,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,05,1200
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,05,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,05,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,05,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,05,488
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,06,0
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,06,10
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,06,617
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,06,0
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,06,1123
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,06,483
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,06,355
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,06,927
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,06,2529
+Stadion Sepak Bola Banteng,Jakarta Pusat,06,15
+Gedung Olahraga Tenis Meja,Jakarta Pusat,06,235
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,06,1355
+Gedung Olahraga Kemakmuran,Jakarta Pusat,06,528
+Stadion Sepak Bola V I J,Jakarta Pusat,06,450
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,06,3715
+Gedung Auditorium Jakarta Barat,Jakarta Barat,06,1682
+Gedung Olahraga Jakarta Barat,Jakarta Barat,06,1145
+GR Kecamatan Kalideres,Jakarta Barat,06,1376
+GR Kecamatan Kembangan,Jakarta Barat,06,1071
+GR Kecamatan Kebon Jeruk,Jakarta Barat,06,1108
+GR Kecamatan Tambora,Jakarta Barat,06,1129
+GR Kecamatan Grogol Petamburan,Jakarta Barat,06,5220
+GR Kecamatan Palmerah,Jakarta Barat,06,1117
+Gedung Olahraga,Jakarta Selatan,06,1000
+Gedung Pertunjukan,Jakarta Selatan,06,0
+Kolam Renang,Jakarta Selatan,06,1573
+Gedung Bridge,Jakarta Selatan,06,602
+Stadion Bola PSPI Tebet,Jakarta Selatan,06,2201
+Lapangan Tenis,Jakarta Selatan,06,589
+GR Kecamatan Tebet,Jakarta Selatan,06,692
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,06,336
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,06,666
+GR Kecamatan Pesanggrahan,Jakarta Selatan,06,770
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,06,418
+GR Kecamatan Jagakarsa,Jakarta Selatan,06,123
+GR Kecamatan Pasar Minggu,Jakarta Selatan,06,948
+Wisma Atlet,Jakarta Selatan,06,23
+Gedung Olahraga,Jakarta Utara,06,166855
+GR Kecamatan Tanjung Priok,Jakarta Utara,06,165
+GR Kecamatan Cilincing,Jakarta Utara,06,119886
+GR Kecamatan Kelapa Gading,Jakarta Utara,06,3982
+Kolam Renang,Jakarta Utara,06,5333
+Gedung Auditorium,Jakarta Utara,06,3776
+GR Kecamatan Koja,Jakarta Utara,06,5755
+Area Halaman GRJU,Jakarta Utara,06,4610
+Gedung Auditorium,Jakarta Timur,06,3550
+Gedung Olahraga,Jakarta Timur,06,170
+Kolam Renang,Jakarta Timur,06,2179
+GR Kecamatan Jatinegara,Jakarta Timur,06,5704
+GR Kecamatan Pulogadung,Jakarta Timur,06,3777
+GR Kecamatan Pasar Rebo,Jakarta Timur,06,498
+GR Kecamatan Cipayung,Jakarta Timur,06,1179
+GR Kecamatan Kramat Jati,Jakarta Timur,06,1788
+GR Kecamatan Makasar,Jakarta Timur,06,648
+GR Kecamatan Duren Sawit,Jakarta Timur,06,480
+GR Kecamatan Cakung,Jakarta Timur,06,1552
+GR Kecamatan Matraman,Jakarta Timur,06,0
+GR Kecamatan Ciracas,Jakarta Timur,06,1115
+Sekretariat,Jakarta Timur,06,1200
+GOR PKP,Jakarta Timur,06,565
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,06,5315
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,06,7429
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,06,6248
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,06,1573
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,06,1030
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,06,586
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,06,538
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,06,960
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,06,678
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,06,210
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,06,449
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,06,169
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,06,293
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,06,925
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,06,1647
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,06,1098
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,06,1182
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,06,0
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,06,150
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,06,0
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,06,1192
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,06,557
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,06,500
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,250
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,2089
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,2174
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,782
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,3080
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,17356
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,3178
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,300
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,06,1232
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,06,8350
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,06,3512
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,06,2390
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,06,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,06,1628
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,06,3775
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,06,1050
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,06,1086
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,06,1035
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,06,3028
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,06,1783
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,06,1086
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,06,784
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,06,5451
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,06,1785
+GOR Bulutangkis,Suku Dinas Jakarta Utara,06,2000
+Gedung Serbaguna,Suku Dinas Jakarta Utara,06,407
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,06,801
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,06,2604
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,06,5242
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,06,435
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,06,170
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,06,262
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,06,250
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,06,60
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,06,60
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,06,550
+GOR Kamal Muara,Suku Dinas Jakarta Utara,06,620
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,06,875
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,06,60000
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,06,1830
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,06,2185
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,06,1123
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,06,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,06,978
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,06,876
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,06,1456
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,06,3736
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,06,2578
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,06,2346
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,06,923
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,06,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,06,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,06,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,06,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,06,6756
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,06,145
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,06,134
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,06,0
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,06,0
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,06,545
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,06,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,06,134
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,06,2687
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,06,2354
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,06,136
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,06,455
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,06,46
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,06,189
+Stadion BMX,Suku Dinas Jakarta Timur,06,0
+GOR Ciracas,Suku Dinas Jakarta Timur,06,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,06,2018
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,06,750
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,06,655
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,06,125
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,06,0
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,06,450
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,06,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,06,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,06,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,06,0
+Sudin Jakarta Pusat,RPTRA ,06,37771
+Sudin Jakarta Utara,RPTRA ,06,0
+Sudin Jakarta Barat,RPTRA ,06,0
+Sudin Jakarta Selatan,RPTRA ,06,0
+Sudin Jakarta Timur,RPTRA ,06,0
+Sudin Jakarta Pusat,RUSUN ,06,0
+Sudin Jakarta Utara,RUSUN ,06,0
+Sudin Jakarta Barat,RUSUN ,06,0
+Sudin Jakarta Selatan,RUSUN ,06,0
+Sudin Jakarta Timur,RUSUN ,06,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,06,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,06,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,06,0
+Formi Jakarta Timur,DISPORA PROVINSI ,06,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,06,0
+Formi Jakarta Utara,DISPORA PROVINSI ,06,0
+Formi Jakarta Barat,DISPORA PROVINSI ,06,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,06,0
+NPC - Rawamangun,DISPORA PROVINSI ,06,0
+NPC - Ragunan,DISPORA PROVINSI ,06,0
+NPC - Paraswim,DISPORA PROVINSI ,06,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,06,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,06,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,06,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,06,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,06,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,06,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,06,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,07,6750
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,07,50
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,07,1268
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,07,3375
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,07,4546
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,07,1818
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,07,775
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,07,2726
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,07,2194
+Stadion Sepak Bola Banteng,Jakarta Pusat,07,416
+Gedung Olahraga Tenis Meja,Jakarta Pusat,07,1157
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,07,1586
+Gedung Olahraga Kemakmuran,Jakarta Pusat,07,1573
+Stadion Sepak Bola V I J,Jakarta Pusat,07,1285
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,07,7288
+Gedung Auditorium Jakarta Barat,Jakarta Barat,07,4383
+Gedung Olahraga Jakarta Barat,Jakarta Barat,07,6023
+GR Kecamatan Kalideres,Jakarta Barat,07,2684
+GR Kecamatan Kembangan,Jakarta Barat,07,2475
+GR Kecamatan Kebon Jeruk,Jakarta Barat,07,2189
+GR Kecamatan Tambora,Jakarta Barat,07,2769
+GR Kecamatan Grogol Petamburan,Jakarta Barat,07,10440
+GR Kecamatan Palmerah,Jakarta Barat,07,2235
+Gedung Olahraga,Jakarta Selatan,07,1215
+Gedung Pertunjukan,Jakarta Selatan,07,0
+Kolam Renang,Jakarta Selatan,07,1893
+Gedung Bridge,Jakarta Selatan,07,731
+Stadion Bola PSPI Tebet,Jakarta Selatan,07,2676
+Lapangan Tenis,Jakarta Selatan,07,719
+GR Kecamatan Tebet,Jakarta Selatan,07,842
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,07,409
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,07,813
+GR Kecamatan Pesanggrahan,Jakarta Selatan,07,938
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,07,510
+GR Kecamatan Jagakarsa,Jakarta Selatan,07,151
+GR Kecamatan Pasar Minggu,Jakarta Selatan,07,1146
+Wisma Atlet,Jakarta Selatan,07,28
+Gedung Olahraga,Jakarta Utara,07,175112
+GR Kecamatan Tanjung Priok,Jakarta Utara,07,300
+GR Kecamatan Cilincing,Jakarta Utara,07,166790
+GR Kecamatan Kelapa Gading,Jakarta Utara,07,4581
+Kolam Renang,Jakarta Utara,07,13948
+Gedung Auditorium,Jakarta Utara,07,8410
+GR Kecamatan Koja,Jakarta Utara,07,6002
+Area Halaman GRJU,Jakarta Utara,07,27669
+Gedung Auditorium,Jakarta Timur,07,6380
+Gedung Olahraga,Jakarta Timur,07,199
+Kolam Renang,Jakarta Timur,07,3132
+GR Kecamatan Jatinegara,Jakarta Timur,07,7084
+GR Kecamatan Pulogadung,Jakarta Timur,07,7699
+GR Kecamatan Pasar Rebo,Jakarta Timur,07,1620
+GR Kecamatan Cipayung,Jakarta Timur,07,1490
+GR Kecamatan Kramat Jati,Jakarta Timur,07,2212
+GR Kecamatan Makasar,Jakarta Timur,07,3022
+GR Kecamatan Duren Sawit,Jakarta Timur,07,1294
+GR Kecamatan Cakung,Jakarta Timur,07,2755
+GR Kecamatan Matraman,Jakarta Timur,07,0
+GR Kecamatan Ciracas,Jakarta Timur,07,4865
+Sekretariat,Jakarta Timur,07,1289
+GOR PKP,Jakarta Timur,07,2160
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,07,1876
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,07,1145
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,07,362
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,07,4979
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,07,1181
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,07,748
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,07,654
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,07,1338
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,07,2903
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,07,950
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,07,1500
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,07,954
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,07,1318
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,07,5486
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,07,4273
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,07,3441
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,07,2233
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,07,350
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,07,2316
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,07,120
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,07,747
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,07,3552
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,07,7496
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,1600
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,3218
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,3279
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,2670
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,16519
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,13098
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,2985
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,24200
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,07,2433
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,07,10050
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,07,15213
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,07,4835
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,07,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,07,2235
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,07,3525
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,07,2325
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,07,1077
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,07,3069
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,07,778
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,07,4175
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,07,1780
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,07,1142
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,07,8770
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,07,2402
+GOR Bulutangkis,Suku Dinas Jakarta Utara,07,6150
+Gedung Serbaguna,Suku Dinas Jakarta Utara,07,386
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,07,1473
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,07,7355
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,07,12432
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,07,897
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,07,688
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,07,1183
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,07,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,07,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,07,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,07,1220
+GOR Kamal Muara,Suku Dinas Jakarta Utara,07,1070
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,07,900
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,07,61552
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,07,1785
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,07,4845
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,07,2231
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,07,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,07,1342
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,07,1443
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,07,2741
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,07,3008
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,07,3303
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,07,2543
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,07,3218
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,07,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,07,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,07,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,07,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,07,12440
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,07,431
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,07,185
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,07,0
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,07,0
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,07,480
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,07,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,07,134
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,07,3431
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,07,2370
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,07,80
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,07,450
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,07,100
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,07,100
+Stadion BMX,Suku Dinas Jakarta Timur,07,0
+GOR Ciracas,Suku Dinas Jakarta Timur,07,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,07,5270
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,07,1963
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,07,925
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,07,215
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,07,0
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,07,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,07,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,07,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,07,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,07,0
+Sudin Jakarta Pusat,RPTRA ,07,0
+Sudin Jakarta Utara,RPTRA ,07,0
+Sudin Jakarta Barat,RPTRA ,07,0
+Sudin Jakarta Selatan,RPTRA ,07,0
+Sudin Jakarta Timur,RPTRA ,07,0
+Sudin Jakarta Pusat,RUSUN ,07,0
+Sudin Jakarta Utara,RUSUN ,07,0
+Sudin Jakarta Barat,RUSUN ,07,0
+Sudin Jakarta Selatan,RUSUN ,07,0
+Sudin Jakarta Timur,RUSUN ,07,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,07,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,07,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,07,0
+Formi Jakarta Timur,DISPORA PROVINSI ,07,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,07,0
+Formi Jakarta Utara,DISPORA PROVINSI ,07,0
+Formi Jakarta Barat,DISPORA PROVINSI ,07,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,07,0
+NPC - Rawamangun,DISPORA PROVINSI ,07,0
+NPC - Ragunan,DISPORA PROVINSI ,07,0
+NPC - Paraswim,DISPORA PROVINSI ,07,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,07,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,07,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,07,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,07,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,07,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,07,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,07,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,08,6750
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,08,60
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,08,1885
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,08,3375
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,08,5669
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,08,2301
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,08,1130
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,08,3653
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,08,4723
+Stadion Sepak Bola Banteng,Jakarta Pusat,08,431
+Gedung Olahraga Tenis Meja,Jakarta Pusat,08,1392
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,08,2941
+Gedung Olahraga Kemakmuran,Jakarta Pusat,08,2101
+Stadion Sepak Bola V I J,Jakarta Pusat,08,1735
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,08,4465
+Gedung Auditorium Jakarta Barat,Jakarta Barat,08,5010
+Gedung Olahraga Jakarta Barat,Jakarta Barat,08,9455
+GR Kecamatan Kalideres,Jakarta Barat,08,2014
+GR Kecamatan Kembangan,Jakarta Barat,08,135
+GR Kecamatan Kebon Jeruk,Jakarta Barat,08,4325
+GR Kecamatan Tambora,Jakarta Barat,08,2415
+GR Kecamatan Grogol Petamburan,Jakarta Barat,08,12590
+GR Kecamatan Palmerah,Jakarta Barat,08,2123
+Gedung Olahraga,Jakarta Selatan,08,1295
+Gedung Pertunjukan,Jakarta Selatan,08,2500
+Kolam Renang,Jakarta Selatan,08,1994
+Gedung Bridge,Jakarta Selatan,08,805
+Stadion Bola PSPI Tebet,Jakarta Selatan,08,2854
+Lapangan Tenis,Jakarta Selatan,08,770
+GR Kecamatan Tebet,Jakarta Selatan,08,899
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,08,438
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,08,871
+GR Kecamatan Pesanggrahan,Jakarta Selatan,08,1002
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,08,546
+GR Kecamatan Jagakarsa,Jakarta Selatan,08,162
+GR Kecamatan Pasar Minggu,Jakarta Selatan,08,1214
+Wisma Atlet,Jakarta Selatan,08,30
+Gedung Olahraga,Jakarta Utara,08,288686
+GR Kecamatan Tanjung Priok,Jakarta Utara,08,3975
+GR Kecamatan Cilincing,Jakarta Utara,08,306614
+GR Kecamatan Kelapa Gading,Jakarta Utara,08,2380
+Kolam Renang,Jakarta Utara,08,16325
+Gedung Auditorium,Jakarta Utara,08,7994
+GR Kecamatan Koja,Jakarta Utara,08,7435
+Area Halaman GRJU,Jakarta Utara,08,22529
+Gedung Auditorium,Jakarta Timur,08,3250
+Gedung Olahraga,Jakarta Timur,08,1365
+Kolam Renang,Jakarta Timur,08,1161
+GR Kecamatan Jatinegara,Jakarta Timur,08,7721
+GR Kecamatan Pulogadung,Jakarta Timur,08,11100
+GR Kecamatan Pasar Rebo,Jakarta Timur,08,1651
+GR Kecamatan Cipayung,Jakarta Timur,08,1272
+GR Kecamatan Kramat Jati,Jakarta Timur,08,4885
+GR Kecamatan Makasar,Jakarta Timur,08,2838
+GR Kecamatan Duren Sawit,Jakarta Timur,08,1578
+GR Kecamatan Cakung,Jakarta Timur,08,1474
+GR Kecamatan Matraman,Jakarta Timur,08,0
+GR Kecamatan Ciracas,Jakarta Timur,08,5550
+Sekretariat,Jakarta Timur,08,2154
+GOR PKP,Jakarta Timur,08,400
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,08,1874
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,08,3865
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,08,2622
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,08,7343
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,08,1207
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,08,845
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,08,785
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,08,1779
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,08,2304
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,08,1457
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,08,579
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,08,403
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,08,1924
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,08,5236
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,08,4371
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,08,3552
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,08,2242
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,08,500
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,08,2360
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,08,225
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,08,814
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,08,1572
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,08,7500
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,1800
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,3774
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,3002
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,2367
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,11136
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,16377
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,2160
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,26083
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,08,3450
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,08,4550
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,08,7231
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,08,4750
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,08,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,08,2480
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,08,3590
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,08,2580
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,08,3325
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,08,2730
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,08,1956
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,08,4156
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,08,1773
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,08,1050
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,08,4749
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,08,453
+GOR Bulutangkis,Suku Dinas Jakarta Utara,08,7720
+Gedung Serbaguna,Suku Dinas Jakarta Utara,08,86
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,08,1991
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,08,5678
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,08,5919
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,08,785
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,08,847
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,08,1579
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,08,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,08,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,08,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,08,1950
+GOR Kamal Muara,Suku Dinas Jakarta Utara,08,1120
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,08,700
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,08,62146
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,08,2725
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,08,3345
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,08,1245
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,08,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,08,1233
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,08,1323
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,08,5118
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,08,5068
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,08,3556
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,08,2234
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,08,3273
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,08,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,08,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,08,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,08,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,08,4556
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,08,310
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,08,75
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,08,0
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,08,0
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,08,730
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,08,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,08,134
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,08,0
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,08,0
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,08,0
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,08,450
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,08,50
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,08,0
+Stadion BMX,Suku Dinas Jakarta Timur,08,0
+GOR Ciracas,Suku Dinas Jakarta Timur,08,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,08,100700
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,08,300
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,08,125
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,08,260
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,08,97644
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,08,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,08,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,08,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,08,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,08,0
+Sudin Jakarta Pusat,RPTRA ,08,0
+Sudin Jakarta Utara,RPTRA ,08,0
+Sudin Jakarta Barat,RPTRA ,08,0
+Sudin Jakarta Selatan,RPTRA ,08,0
+Sudin Jakarta Timur,RPTRA ,08,0
+Sudin Jakarta Pusat,RUSUN ,08,0
+Sudin Jakarta Utara,RUSUN ,08,0
+Sudin Jakarta Barat,RUSUN ,08,0
+Sudin Jakarta Selatan,RUSUN ,08,0
+Sudin Jakarta Timur,RUSUN ,08,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,08,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,08,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,08,0
+Formi Jakarta Timur,DISPORA PROVINSI ,08,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,08,0
+Formi Jakarta Utara,DISPORA PROVINSI ,08,0
+Formi Jakarta Barat,DISPORA PROVINSI ,08,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,08,0
+NPC - Rawamangun,DISPORA PROVINSI ,08,0
+NPC - Ragunan,DISPORA PROVINSI ,08,0
+NPC - Paraswim,DISPORA PROVINSI ,08,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,08,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,08,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,08,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,08,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,08,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,08,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,08,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,09,2200
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,09,1545
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,09,875
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,09,1415
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,09,3979
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,09,1805
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,09,775
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,09,4008
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,09,10620
+Stadion Sepak Bola Banteng,Jakarta Pusat,09,6500
+Gedung Olahraga Tenis Meja,Jakarta Pusat,09,1700
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,09,1640
+Gedung Olahraga Kemakmuran,Jakarta Pusat,09,1567
+Stadion Sepak Bola V I J,Jakarta Pusat,09,1285
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,09,3877
+Gedung Auditorium Jakarta Barat,Jakarta Barat,09,5091
+Gedung Olahraga Jakarta Barat,Jakarta Barat,09,5529
+GR Kecamatan Kalideres,Jakarta Barat,09,2266
+GR Kecamatan Kembangan,Jakarta Barat,09,115
+GR Kecamatan Kebon Jeruk,Jakarta Barat,09,1782
+GR Kecamatan Tambora,Jakarta Barat,09,2396
+GR Kecamatan Grogol Petamburan,Jakarta Barat,09,11030
+GR Kecamatan Palmerah,Jakarta Barat,09,1513
+Gedung Olahraga,Jakarta Selatan,09,2043
+Gedung Pertunjukan,Jakarta Selatan,09,150
+Kolam Renang,Jakarta Selatan,09,3933
+Gedung Bridge,Jakarta Selatan,09,1263
+Stadion Bola PSPI Tebet,Jakarta Selatan,09,4201
+Lapangan Tenis,Jakarta Selatan,09,1030
+GR Kecamatan Tebet,Jakarta Selatan,09,1308
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,09,604
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,09,1126
+GR Kecamatan Pesanggrahan,Jakarta Selatan,09,1392
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,09,729
+GR Kecamatan Jagakarsa,Jakarta Selatan,09,170
+GR Kecamatan Pasar Minggu,Jakarta Selatan,09,2124
+Wisma Atlet,Jakarta Selatan,09,43
+Gedung Olahraga,Jakarta Utara,09,291213
+GR Kecamatan Tanjung Priok,Jakarta Utara,09,2412
+GR Kecamatan Cilincing,Jakarta Utara,09,180731
+GR Kecamatan Kelapa Gading,Jakarta Utara,09,3212
+Kolam Renang,Jakarta Utara,09,21179
+Gedung Auditorium,Jakarta Utara,09,7850
+GR Kecamatan Koja,Jakarta Utara,09,7197
+Area Halaman GRJU,Jakarta Utara,09,25335
+Gedung Auditorium,Jakarta Timur,09,10680
+Gedung Olahraga,Jakarta Timur,09,345
+Kolam Renang,Jakarta Timur,09,2430
+GR Kecamatan Jatinegara,Jakarta Timur,09,7502
+GR Kecamatan Pulogadung,Jakarta Timur,09,3384
+GR Kecamatan Pasar Rebo,Jakarta Timur,09,2272
+GR Kecamatan Cipayung,Jakarta Timur,09,1883
+GR Kecamatan Kramat Jati,Jakarta Timur,09,4624
+GR Kecamatan Makasar,Jakarta Timur,09,2740
+GR Kecamatan Duren Sawit,Jakarta Timur,09,1427
+GR Kecamatan Cakung,Jakarta Timur,09,1963
+GR Kecamatan Matraman,Jakarta Timur,09,0
+GR Kecamatan Ciracas,Jakarta Timur,09,5160
+Sekretariat,Jakarta Timur,09,1254
+GOR PKP,Jakarta Timur,09,2920
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,09,1335
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,09,4298
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,09,1520
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,09,5716
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,09,840
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,09,855
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,09,620
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,09,1414
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,09,2419
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,09,1503
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,09,1212
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,09,298
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,09,1944
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,09,1120
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,09,4897
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,09,2311
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,09,2459
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,09,300
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,09,1875
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,09,255
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,09,585
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,09,7506
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,09,6500
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,3095
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,5587
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,4165
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,2558
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,15273
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,16620
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,2560
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,21766
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,09,2876
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,09,10150
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,09,1607
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,09,2761
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,09,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,09,1539
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,09,3625
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,09,2313
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,09,1226
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,09,2075
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,09,1922
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,09,4531
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,09,1660
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,09,1327
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,09,5807
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,09,3104
+GOR Bulutangkis,Suku Dinas Jakarta Utara,09,8521
+Gedung Serbaguna,Suku Dinas Jakarta Utara,09,295
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,09,1365
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,09,3898
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,09,5925
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,09,4101
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,09,852
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,09,1200
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,09,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,09,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,09,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,09,2000
+GOR Kamal Muara,Suku Dinas Jakarta Utara,09,1140
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,09,530
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,09,60114
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,09,2565
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,09,3141
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,09,6524
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,09,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,09,4395
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,09,2334
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,09,4578
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,09,3634
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,09,3215
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,09,4517
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,09,3345
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,09,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,09,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,09,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,09,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,09,9220
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,09,310
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,09,75
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,09,1852
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,09,100
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,09,800
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,09,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,09,124
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,09,0
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,09,0
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,09,0
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,09,450
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,09,50
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,09,567
+Stadion BMX,Suku Dinas Jakarta Timur,09,0
+GOR Ciracas,Suku Dinas Jakarta Timur,09,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,09,2640
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,09,800
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,09,890
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,09,225
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,09,0
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,09,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,09,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,09,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,09,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,09,0
+Sudin Jakarta Pusat,RPTRA ,09,53514
+Sudin Jakarta Utara,RPTRA ,09,0
+Sudin Jakarta Barat,RPTRA ,09,0
+Sudin Jakarta Selatan,RPTRA ,09,80991
+Sudin Jakarta Timur,RPTRA ,09,0
+Sudin Jakarta Pusat,RUSUN ,09,0
+Sudin Jakarta Utara,RUSUN ,09,0
+Sudin Jakarta Barat,RUSUN ,09,0
+Sudin Jakarta Selatan,RUSUN ,09,61097
+Sudin Jakarta Timur,RUSUN ,09,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,09,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,09,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,09,0
+Formi Jakarta Timur,DISPORA PROVINSI ,09,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,09,0
+Formi Jakarta Utara,DISPORA PROVINSI ,09,0
+Formi Jakarta Barat,DISPORA PROVINSI ,09,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,09,0
+NPC - Rawamangun,DISPORA PROVINSI ,09,0
+NPC - Ragunan,DISPORA PROVINSI ,09,0
+NPC - Paraswim,DISPORA PROVINSI ,09,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,09,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,09,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,09,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,09,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,09,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,09,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,09,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,10,625
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,10,2735
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,10,903
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,10,2220
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,10,5083
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,10,2415
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,10,825
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,10,4571
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,10,10654
+Stadion Sepak Bola Banteng,Jakarta Pusat,10,8500
+Gedung Olahraga Tenis Meja,Jakarta Pusat,10,1700
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,10,1948
+Gedung Olahraga Kemakmuran,Jakarta Pusat,10,1560
+Stadion Sepak Bola V I J,Jakarta Pusat,10,1220
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,10,156
+Gedung Auditorium Jakarta Barat,Jakarta Barat,10,5125
+Gedung Olahraga Jakarta Barat,Jakarta Barat,10,6448
+GR Kecamatan Kalideres,Jakarta Barat,10,2625
+GR Kecamatan Kembangan,Jakarta Barat,10,125
+GR Kecamatan Kebon Jeruk,Jakarta Barat,10,2145
+GR Kecamatan Tambora,Jakarta Barat,10,2535
+GR Kecamatan Grogol Petamburan,Jakarta Barat,10,10420
+GR Kecamatan Palmerah,Jakarta Barat,10,1555
+Gedung Olahraga,Jakarta Selatan,10,2198
+Gedung Pertunjukan,Jakarta Selatan,10,2408
+Kolam Renang,Jakarta Selatan,10,4232
+Gedung Bridge,Jakarta Selatan,10,1358
+Stadion Bola PSPI Tebet,Jakarta Selatan,10,2504
+Lapangan Tenis,Jakarta Selatan,10,1107
+GR Kecamatan Tebet,Jakarta Selatan,10,1405
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,10,649
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,10,1209
+GR Kecamatan Pesanggrahan,Jakarta Selatan,10,1496
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,10,783
+GR Kecamatan Jagakarsa,Jakarta Selatan,10,183
+GR Kecamatan Pasar Minggu,Jakarta Selatan,10,2284
+Wisma Atlet,Jakarta Selatan,10,46
+Gedung Olahraga,Jakarta Utara,10,299625
+GR Kecamatan Tanjung Priok,Jakarta Utara,10,5581
+GR Kecamatan Cilincing,Jakarta Utara,10,178270
+GR Kecamatan Kelapa Gading,Jakarta Utara,10,2718
+Kolam Renang,Jakarta Utara,10,47580
+Gedung Auditorium,Jakarta Utara,10,231431
+GR Kecamatan Koja,Jakarta Utara,10,6668
+Area Halaman GRJU,Jakarta Utara,10,20680
+Gedung Auditorium,Jakarta Timur,10,8370
+Gedung Olahraga,Jakarta Timur,10,2065
+Kolam Renang,Jakarta Timur,10,2984
+GR Kecamatan Jatinegara,Jakarta Timur,10,7489
+GR Kecamatan Pulogadung,Jakarta Timur,10,19072
+GR Kecamatan Pasar Rebo,Jakarta Timur,10,1918
+GR Kecamatan Cipayung,Jakarta Timur,10,2203
+GR Kecamatan Kramat Jati,Jakarta Timur,10,6449
+GR Kecamatan Makasar,Jakarta Timur,10,4696
+GR Kecamatan Duren Sawit,Jakarta Timur,10,1376
+GR Kecamatan Cakung,Jakarta Timur,10,1079
+GR Kecamatan Matraman,Jakarta Timur,10,0
+GR Kecamatan Ciracas,Jakarta Timur,10,5500
+Sekretariat,Jakarta Timur,10,1305
+GOR PKP,Jakarta Timur,10,2130
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,10,1325
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,10,4250
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,10,1250
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,10,4440
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,10,861
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,10,807
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,10,639
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,10,1292
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,10,2435
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,10,1510
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,10,471
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,10,593
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,10,2403
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,10,2150
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,10,5125
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,10,1243
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,10,2670
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,10,50
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,10,1570
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,10,390
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,10,655
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,10,4820
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,10,7500
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,8780
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,3009
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,3213
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,2668
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,12921
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,14371
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,3110
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,24598
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,10,2998
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,10,5550
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,10,14533
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,10,2570
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,10,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,10,2682
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,10,3700
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,10,2314
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,10,1332
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,10,2723
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,10,1352
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,10,4348
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,10,1899
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,10,1417
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,10,6410
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,10,2266
+GOR Bulutangkis,Suku Dinas Jakarta Utara,10,4652
+Gedung Serbaguna,Suku Dinas Jakarta Utara,10,259
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,10,1681
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,10,5044
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,10,5791
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,10,1258
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,10,772
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,10,1120
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,10,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,10,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,10,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,10,1750
+GOR Kamal Muara,Suku Dinas Jakarta Utara,10,1090
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,10,4084
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,10,61001
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,10,3442
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,10,2334
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,10,6913
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,10,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,10,3321
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,10,2314
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,10,3985
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,10,2455
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,10,3312
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,10,3964
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,10,3544
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,10,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,10,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,10,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,10,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,10,11235
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,10,241
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,10,75
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,10,1968
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,10,100
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,10,942
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,10,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,10,124
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,10,0
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,10,0
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,10,0
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,10,470
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,10,80
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,10,645
+Stadion BMX,Suku Dinas Jakarta Timur,10,0
+GOR Ciracas,Suku Dinas Jakarta Timur,10,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,10,7375
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,10,2167
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,10,2300
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,10,280
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,10,0
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,10,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,10,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,10,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,10,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,10,0
+Sudin Jakarta Pusat,RPTRA ,10,56262
+Sudin Jakarta Utara,RPTRA ,10,0
+Sudin Jakarta Barat,RPTRA ,10,0
+Sudin Jakarta Selatan,RPTRA ,10,55795
+Sudin Jakarta Timur,RPTRA ,10,0
+Sudin Jakarta Pusat,RUSUN ,10,0
+Sudin Jakarta Utara,RUSUN ,10,0
+Sudin Jakarta Barat,RUSUN ,10,0
+Sudin Jakarta Selatan,RUSUN ,10,55795
+Sudin Jakarta Timur,RUSUN ,10,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,10,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,10,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,10,0
+Formi Jakarta Timur,DISPORA PROVINSI ,10,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,10,0
+Formi Jakarta Utara,DISPORA PROVINSI ,10,0
+Formi Jakarta Barat,DISPORA PROVINSI ,10,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,10,0
+NPC - Rawamangun,DISPORA PROVINSI ,10,0
+NPC - Ragunan,DISPORA PROVINSI ,10,0
+NPC - Paraswim,DISPORA PROVINSI ,10,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,10,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,10,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,10,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,10,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,10,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,10,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,10,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,11,625
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,11,2305
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,11,733
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,11,2700
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,11,3356
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,11,1885
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,11,760
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,11,4571
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,11,9392
+Stadion Sepak Bola Banteng,Jakarta Pusat,11,11525
+Gedung Olahraga Tenis Meja,Jakarta Pusat,11,1780
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,11,1950
+Gedung Olahraga Kemakmuran,Jakarta Pusat,11,1565
+Stadion Sepak Bola V I J,Jakarta Pusat,11,1255
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,11,175
+Gedung Auditorium Jakarta Barat,Jakarta Barat,11,5210
+Gedung Olahraga Jakarta Barat,Jakarta Barat,11,6674
+GR Kecamatan Kalideres,Jakarta Barat,11,2735
+GR Kecamatan Kembangan,Jakarta Barat,11,142
+GR Kecamatan Kebon Jeruk,Jakarta Barat,11,2355
+GR Kecamatan Tambora,Jakarta Barat,11,2325
+GR Kecamatan Grogol Petamburan,Jakarta Barat,11,11125
+GR Kecamatan Palmerah,Jakarta Barat,11,1675
+Gedung Olahraga,Jakarta Selatan,11,4032
+Gedung Pertunjukan,Jakarta Selatan,11,3500
+Kolam Renang,Jakarta Selatan,11,7651
+Gedung Bridge,Jakarta Selatan,11,210
+Stadion Bola PSPI Tebet,Jakarta Selatan,11,1175
+Lapangan Tenis,Jakarta Selatan,11,4300
+GR Kecamatan Tebet,Jakarta Selatan,11,2300
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,11,1909
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,11,2025
+GR Kecamatan Pesanggrahan,Jakarta Selatan,11,2080
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,11,1176
+GR Kecamatan Jagakarsa,Jakarta Selatan,11,1239
+GR Kecamatan Pasar Minggu,Jakarta Selatan,11,6351
+Wisma Atlet,Jakarta Selatan,11,55
+Gedung Olahraga,Jakarta Utara,11,8629
+GR Kecamatan Tanjung Priok,Jakarta Utara,11,7399
+GR Kecamatan Cilincing,Jakarta Utara,11,8580
+GR Kecamatan Kelapa Gading,Jakarta Utara,11,39034
+Kolam Renang,Jakarta Utara,11,3503
+Gedung Auditorium,Jakarta Utara,11,175148
+GR Kecamatan Koja,Jakarta Utara,11,21729
+Area Halaman GRJU,Jakarta Utara,11,297153
+Gedung Auditorium,Jakarta Timur,11,6900
+Gedung Olahraga,Jakarta Timur,11,4216
+Kolam Renang,Jakarta Timur,11,1982
+GR Kecamatan Jatinegara,Jakarta Timur,11,9416
+GR Kecamatan Pulogadung,Jakarta Timur,11,10504
+GR Kecamatan Pasar Rebo,Jakarta Timur,11,1004
+GR Kecamatan Cipayung,Jakarta Timur,11,2434
+GR Kecamatan Kramat Jati,Jakarta Timur,11,6008
+GR Kecamatan Makasar,Jakarta Timur,11,2833
+GR Kecamatan Duren Sawit,Jakarta Timur,11,1286
+GR Kecamatan Cakung,Jakarta Timur,11,1621
+GR Kecamatan Matraman,Jakarta Timur,11,0
+GR Kecamatan Ciracas,Jakarta Timur,11,7880
+Sekretariat,Jakarta Timur,11,1251
+GOR PKP,Jakarta Timur,11,840
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,11,0
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,11,0
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,11,0
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,11,7610
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,11,482
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,11,834
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,11,1028
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,11,1307
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,11,2325
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,11,1678
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,11,689
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,11,521
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,11,1387
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,11,3494
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,11,5052
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,11,1312
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,11,749
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,11,0
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,11,760
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,11,90
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,11,255
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,11,336
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,11,2350
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,15308
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,6365
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,5893
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,2144
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,15008
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,25389
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,16388
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,2160
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,11,12100
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,11,15350
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,11,3499
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,11,2375
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,11,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,11,1962
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,11,2555
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,11,2320
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,11,1125
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,11,2980
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,11,10115
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,11,4554
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,11,1989
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,11,1527
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,11,4812
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,11,4906
+GOR Bulutangkis,Suku Dinas Jakarta Utara,11,2480
+Gedung Serbaguna,Suku Dinas Jakarta Utara,11,6522
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,11,225
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,11,1220
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,11,3204
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,11,1790
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,11,555
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,11,2235
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,11,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,11,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,11,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,11,400
+GOR Kamal Muara,Suku Dinas Jakarta Utara,11,800
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,11,1550
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,11,60321
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,11,2887
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,11,2114
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,11,5546
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,11,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,11,3354
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,11,2344
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,11,3778
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,11,2344
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,11,4433
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,11,3776
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,11,3407
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,11,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,11,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,11,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,11,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,11,16247
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,11,346
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,11,0
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,11,2521
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,11,450
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,11,1105
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,11,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,11,124
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,11,0
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,11,0
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,11,0
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,11,560
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,11,50
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,11,0
+Stadion BMX,Suku Dinas Jakarta Timur,11,754
+GOR Ciracas,Suku Dinas Jakarta Timur,11,4500
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,11,2080
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,11,1410
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,11,1200
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,11,270
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,11,0
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,11,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,11,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,11,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,11,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,11,0
+Sudin Jakarta Pusat,RPTRA ,11,57301
+Sudin Jakarta Utara,RPTRA ,11,0
+Sudin Jakarta Barat,RPTRA ,11,0
+Sudin Jakarta Selatan,RPTRA ,11,0
+Sudin Jakarta Timur,RPTRA ,11,0
+Sudin Jakarta Pusat,RUSUN ,11,0
+Sudin Jakarta Utara,RUSUN ,11,0
+Sudin Jakarta Barat,RUSUN ,11,0
+Sudin Jakarta Selatan,RUSUN ,11,0
+Sudin Jakarta Timur,RUSUN ,11,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,11,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,11,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,11,0
+Formi Jakarta Timur,DISPORA PROVINSI ,11,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,11,0
+Formi Jakarta Utara,DISPORA PROVINSI ,11,0
+Formi Jakarta Barat,DISPORA PROVINSI ,11,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,11,0
+NPC - Rawamangun,DISPORA PROVINSI ,11,0
+NPC - Ragunan,DISPORA PROVINSI ,11,0
+NPC - Paraswim,DISPORA PROVINSI ,11,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,11,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,11,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,11,0
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,11,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,11,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,11,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,11,0
+Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,12,625
+Gedung Olahraga Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,12,1786
+Kolam Renang Gelanggang Remaja Jakarta Pusat,Jakarta Pusat,12,840
+Gedung Auditorium Kebon Jahe Tanah Abang,Jakarta Pusat,12,2700
+Gelanggang Remaja Kecamatan Tanah Abang,Jakarta Pusat,12,4732
+Gelanggang Remaja Kecamatan Kemayoran,Jakarta Pusat,12,1565
+Gelanggang Remaja Kecamatan Sawah Besar,Jakarta Pusat,12,760
+Gelanggang Remaja Kecamatan Johar Baru,Jakarta Pusat,12,2867
+Gelanggang Remaja Kecamatan Cempaka Putih,Jakarta Pusat,12,5337
+Stadion Sepak Bola Banteng,Jakarta Pusat,12,7065
+Gedung Olahraga Tenis Meja,Jakarta Pusat,12,1600
+Kolam Renang Kebon Jahe Tanah Abang,Jakarta Pusat,12,1595
+Gedung Olahraga Kemakmuran,Jakarta Pusat,12,1586
+Stadion Sepak Bola V I J,Jakarta Pusat,12,1110
+Kolam Renang Gelanggang Remaja Jakarta Barat,Jakarta Barat,12,6880
+Gedung Auditorium Jakarta Barat,Jakarta Barat,12,5744
+Gedung Olahraga Jakarta Barat,Jakarta Barat,12,5575
+GR Kecamatan Kalideres,Jakarta Barat,12,2535
+GR Kecamatan Kembangan,Jakarta Barat,12,645
+GR Kecamatan Kebon Jeruk,Jakarta Barat,12,2725
+GR Kecamatan Tambora,Jakarta Barat,12,4334
+GR Kecamatan Grogol Petamburan,Jakarta Barat,12,10554
+GR Kecamatan Palmerah,Jakarta Barat,12,2472
+Gedung Olahraga,Jakarta Selatan,12,40952
+Gedung Pertunjukan,Jakarta Selatan,12,19590
+Kolam Renang,Jakarta Selatan,12,42446
+Gedung Bridge,Jakarta Selatan,12,17590
+Stadion Bola PSPI Tebet,Jakarta Selatan,12,64928
+Lapangan Tenis,Jakarta Selatan,12,19225
+GR Kecamatan Tebet,Jakarta Selatan,12,21903
+GR Kecamatan Kebayoran Lama,Jakarta Selatan,12,11600
+GR Kecamatan Kebayoran Baru,Jakarta Selatan,12,21753
+GR Kecamatan Pesanggrahan,Jakarta Selatan,12,23505
+GR Kecamatan Mampang Prapatan,Jakarta Selatan,12,11892
+GR Kecamatan Jagakarsa,Jakarta Selatan,12,3172
+GR Kecamatan Pasar Minggu,Jakarta Selatan,12,35094
+Wisma Atlet,Jakarta Selatan,12,641
+Gedung Olahraga,Jakarta Utara,12,298794
+GR Kecamatan Tanjung Priok,Jakarta Utara,12,5309
+GR Kecamatan Cilincing,Jakarta Utara,12,171602
+GR Kecamatan Kelapa Gading,Jakarta Utara,12,3633
+Kolam Renang,Jakarta Utara,12,9346
+Gedung Auditorium,Jakarta Utara,12,8180
+GR Kecamatan Koja,Jakarta Utara,12,7104
+Area Halaman GRJU,Jakarta Utara,12,22418
+Gedung Auditorium,Jakarta Timur,12,74360
+Gedung Olahraga,Jakarta Timur,12,14760
+Kolam Renang,Jakarta Timur,12,30534
+GR Kecamatan Jatinegara,Jakarta Timur,12,87411
+GR Kecamatan Pulogadung,Jakarta Timur,12,102456
+GR Kecamatan Pasar Rebo,Jakarta Timur,12,21371
+GR Kecamatan Cipayung,Jakarta Timur,12,20830
+GR Kecamatan Kramat Jati,Jakarta Timur,12,50608
+GR Kecamatan Makasar,Jakarta Timur,12,43615
+GR Kecamatan Duren Sawit,Jakarta Timur,12,14702
+GR Kecamatan Cakung,Jakarta Timur,12,26399
+GR Kecamatan Matraman,Jakarta Timur,12,0
+GR Kecamatan Ciracas,Jakarta Timur,12,68570
+Sekretariat,Jakarta Timur,12,13580
+GOR PKP,Jakarta Timur,12,22707
+Lapangan Terbuka Karet Tengsin,Suku Dinas Jakarta Pusat,12,0
+Lapangan Terbuka Pors Serdang,Suku Dinas Jakarta Pusat,12,0
+Lapangan Terbuka Pejompongan,Suku Dinas Jakarta Pusat,12,0
+Lapangan Bulutangkis Komp,Suku Dinas Jakarta Barat,12,3212
+Lapangan Bola Voli Pedongkelan,Suku Dinas Jakarta Barat,12,628
+Lapangan Bulutangkis Rawa Melati,Suku Dinas Jakarta Barat,12,1127
+Lapangan Bola Voli Kamp,Suku Dinas Jakarta Barat,12,758
+Lapangan Basket Cengkareng Timur,Suku Dinas Jakarta Barat,12,1264
+Lapangan Sepakbola Pegadungan,Suku Dinas Jakarta Barat,12,3102
+Lapangan Sepakbola Semanan,Suku Dinas Jakarta Barat,12,3487
+Lapangan Sepakbola Srengseng,Suku Dinas Jakarta Barat,12,1304
+Lapangan Sepakbola Kedoya,Suku Dinas Jakarta Barat,12,653
+Lapangan Sepakbola Kebon Jeruk,Suku Dinas Jakarta Barat,12,655
+Lapangan Sepakbola Persima,Suku Dinas Jakarta Barat,12,3679
+Lapangan Sepakbola Wijaya Kusuma,Suku Dinas Jakarta Barat,12,1863
+Lapangan Terbuka Jatipulo Palmerah,Suku Dinas Jakarta Barat,12,1444
+Gedung Bulutangkis GOR Cendrawasih,Suku Dinas Jakarta Barat,12,1650
+Gedung Asrama Atlet GOR Cendrawasih,Suku Dinas Jakarta Barat,12,65
+Gedung Serbaguna GOR Cendrawasih,Suku Dinas Jakarta Barat,12,1650
+Lapangan Tenis GOR Cendrawasih,Suku Dinas Jakarta Barat,12,627
+Lapangan Tenis/Futsal GOR Cendrawasih,Suku Dinas Jakarta Barat,12,765
+Stadion Terbuka Taman Sari,Suku Dinas Jakarta Barat,12,1177
+Stadion Sepakbola GOR Cendrawasih,Suku Dinas Jakarta Barat,12,8250
+Lapangan Basket GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,11008
+Lapangan Bulutangkis GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,3296
+Lapangan Voli GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,3556
+Fitness Center GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,1961
+Kolam Renang GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,15814
+Stadion GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,24850
+Lapangan Sepakbola Dalam GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,17540
+Lapangan Sepakbola Luar GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,2160
+Plaza GOR Soemantri Brodjonegoro,Suku Dinas Jakarta Selatan,12,19007
+Lapangan Sepakbola Blok S Kebayoran Baru,Suku Dinas Jakarta Selatan,12,10350
+Lapangan Sepakbola Ahmad Yani Kebayoran Lama,Suku Dinas Jakarta Selatan,12,0
+Lapangan Sepakbola Kebagusan Pasar Minggu,Suku Dinas Jakarta Selatan,12,2795
+Lapangan Sepakbola Deppen Pesanggrahan,Suku Dinas Jakarta Selatan,12,0
+Lapangan Sepakbola Sukatani Jagakarsa,Suku Dinas Jakarta Selatan,12,968
+Lapangan Sepakbola Jagakarsa,Suku Dinas Jakarta Selatan,12,2195
+Gedung Serbaguna Semper Barat,Suku Dinas Jakarta Utara,12,2303
+Lapangan Terbuka Muara Angke,Suku Dinas Jakarta Utara,12,1157
+Lapangan Terbuka Rorotan,Suku Dinas Jakarta Utara,12,2893
+Lapangan Terbuka Kalibaru,Suku Dinas Jakarta Utara,12,1522
+Area Jogging Track Gelora Sunter,Suku Dinas Jakarta Utara,12,4355
+Area Fitness Outdoor Gelora Sunter,Suku Dinas Jakarta Utara,12,1921
+Area Parkir Depan Kolam Renang Sunter (Kegiatan SKJ),Suku Dinas Jakarta Utara,12,1277
+Area Fasilitas Olahraga Rawa Badak,Suku Dinas Jakarta Utara,12,8921
+Kolam Renang Sunter,Suku Dinas Jakarta Utara,12,2458
+GOR Bulutangkis,Suku Dinas Jakarta Utara,12,4661
+Gedung Serbaguna,Suku Dinas Jakarta Utara,12,231
+Stadion Sepakbola Sunter,Suku Dinas Jakarta Utara,12,1287
+Stadion Sepakbola Tugu,Suku Dinas Jakarta Utara,12,3101
+Kolam Renang Rawa Badak,Suku Dinas Jakarta Utara,12,4221
+Stadion Rawa Badak,Suku Dinas Jakarta Utara,12,1776
+Lapangan Tenis Rawa Badak,Suku Dinas Jakarta Utara,12,630
+Gedung Judo Kelapa Gading,Suku Dinas Jakarta Utara,12,2359
+Fasilitas Olahraga Dayung Bahtera Jaya,Suku Dinas Jakarta Utara,12,1302
+Fasilitas Olahraga Selancar Angin Bahtera Jaya,Suku Dinas Jakarta Utara,12,240
+Fasilitas Olahraga Layar Bahtera Jaya,Suku Dinas Jakarta Utara,12,96
+Stadion Kamal Muara,Suku Dinas Jakarta Utara,12,1975
+GOR Kamal Muara,Suku Dinas Jakarta Utara,12,1360
+GOR Bahtera Jaya,Suku Dinas Jakarta Utara,12,6345
+Fasilitas Umum Milik Masyarakat,Suku Dinas Jakarta Utara,12,61552
+Lapangan Sepakbola Setu,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Klender,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Cakung,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Kramat Jati,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Gedong,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Cijantung,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Kelapa Dua Wetan,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Cibubur,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Lubang Buaya,Suku Dinas Jakarta Timur,12,0
+Lapangan Sepakbola Ceger,Suku Dinas Jakarta Timur,12,0
+GOR Perumnas Klender,Suku Dinas Jakarta Timur,12,0
+Tenis Indoor GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Tenis Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Basket Outdoor GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Kolam Renang GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Stadion Atletik GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Gedung Bulu Tangkis GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Gedung Squash GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Gedung Futsal GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Lapangan Baseball GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Gedung KNPI GOR Rawamangun,Suku Dinas Jakarta Timur,12,0
+Stadion Bola Pulo Mas,Suku Dinas Jakarta Timur,12,0
+Lapangan Panahan Pulo Mas,Suku Dinas Jakarta Timur,12,0
+Gedung Voli Pondok Bambu,Suku Dinas Jakarta Timur,12,0
+Stadion Bola Pondok Bambu,Suku Dinas Jakarta Timur,12,0
+Tenis Outdoor Pondok Bambu,Suku Dinas Jakarta Timur,12,0
+Gedung Senam Radin Inten,Suku Dinas Jakarta Timur,12,0
+Wisma Atlet Radin Inten,Suku Dinas Jakarta Timur,12,0
+Gedung Serba Guna Radin Inten,Suku Dinas Jakarta Timur,12,0
+Stadion BMX,Suku Dinas Jakarta Timur,12,0
+GOR Ciracas,Suku Dinas Jakarta Timur,12,0
+Stadion Sepakbola GOR Ciracas,Suku Dinas Jakarta Timur,12,0
+Kolam Renang GOR Ciracas,Suku Dinas Jakarta Timur,12,0
+Lapangan Terbuka GOR Ciracas,Suku Dinas Jakarta Timur,12,0
+Stadion Sepakbola Gongseng,Suku Dinas Jakarta Timur,12,0
+ PPOP ,Pusat Pelatihan Olahraga Pelajar,12,101332
+Sudin Jakarta Pusat,Hari Bebas Kendaraan Bermotor,12,0
+Sudin Jakarta Utara,Hari Bebas Kendaraan Bermotor,12,0
+Sudin Jakarta Barat,Hari Bebas Kendaraan Bermotor,12,0
+Sudin Jakarta Selatan,Hari Bebas Kendaraan Bermotor,12,0
+Sudin Jakarta Timur,Hari Bebas Kendaraan Bermotor,12,0
+Sudin Jakarta Pusat,RPTRA ,12,59774
+Sudin Jakarta Utara,RPTRA ,12,0
+Sudin Jakarta Barat,RPTRA ,12,0
+Sudin Jakarta Selatan,RPTRA ,12,0
+Sudin Jakarta Timur,RPTRA ,12,0
+Sudin Jakarta Pusat,RUSUN ,12,0
+Sudin Jakarta Utara,RUSUN ,12,0
+Sudin Jakarta Barat,RUSUN ,12,0
+Sudin Jakarta Selatan,RUSUN ,12,0
+Sudin Jakarta Timur,RUSUN ,12,0
+Senam Kesegaran Jasmani - Gedung Dispora,DISPORA PROVINSI ,12,0
+Senam Kesegaran Jasmani - Gedung Dinas Kehutanan,DISPORA PROVINSI ,12,0
+Senam Kesegaran Jasmani - Gedung Dinas Perumahan,DISPORA PROVINSI ,12,0
+Formi Jakarta Timur,DISPORA PROVINSI ,12,0
+Formi Jakarta Selatan,DISPORA PROVINSI ,12,0
+Formi Jakarta Utara,DISPORA PROVINSI ,12,0
+Formi Jakarta Barat,DISPORA PROVINSI ,12,0
+Formi Jakarta Pusat,DISPORA PROVINSI ,12,0
+NPC - Rawamangun,DISPORA PROVINSI ,12,0
+NPC - Ragunan,DISPORA PROVINSI ,12,0
+NPC - Paraswim,DISPORA PROVINSI ,12,0
+HBKB Jln Sudirman,DISPORA PROVINSI ,12,0
+Jumlah Masyarakat berolahraga,DISPORA PROVINSI ,12,0
+Suku Dinas Jakarta Pusat,Suku Dinas Jakarta Pusat,12,1828
+Suku Dinas Jakarta Utara,Suku Dinas Jakarta Utara,12,0
+Suku Dinas Jakarta Barat,Suku Dinas Jakarta Barat,12,0
+Suku Dinas Jakarta Selatan,Suku Dinas Jakarta Selatan,12,0
+Suku Dinas Jakarta Timur,Suku Dinas Jakarta Timur,12,0
